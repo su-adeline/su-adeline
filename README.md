@@ -1,11 +1,17 @@
-<h1 align="center">Hi 👋, I'm Adeline</h1>
+<h1 align="center">Hi 👋, I'm Adeline ☺️💫🦕</h1>
 <h3 align="center">I’m interested in mobile application, especially educative ones on various topics children love! (and adults too!)</h3>
 
-- 🔭 I’m currently working on [HandiGuide, an app to help people with disabilities in France on all the existing supports availables](https://handiguide.wordpress.com)
+- 🔭 I’m currently working on [HandiGuide](https://handiguide.wordpress.com)
 
 - 🌱 I’m currently learning **building apps from A to Z (improving my UI/UX skills)**
 
+- 👯 I’m looking to collaborate on **iOS projects**
+
+- 💬 Ask me about **Swift, QA**
+
 - 📫 How to reach me **adeline@arinae.fr**
+
+- ⚡ Fun fact **Not so geeky at home, my main hobbie: reading! 📚**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
