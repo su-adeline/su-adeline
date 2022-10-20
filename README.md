@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adeline ☺️💫🦕</h1>
 <h3 align="center">I’m interested in mobile application, especially educative ones on various topics children love! (and adults too!)</h3>
 
-- 🔭 I’m currently working on [HandiGuide](https://handiguide.wordpress.com)
+- 🔭 I’m currently working on [HandiGuide](https://apps.apple.com/us/app/handiguide/id1626629887)
 
 - 🌱 I’m currently learning **building apps from A to Z (improving my UI/UX skills)**
 
