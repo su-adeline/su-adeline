@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Adeline ☺️💫🦕</h1>
-<h3 align="center">I’m interested in mobile application, especially educative ones on various topics children love! (and adults too!)</h3>
+<h3 align="center">Working on mobile applications, especially interested in educative ones (for children and adults too!)</h3>
 
-- 🔭 I’m currently working on [HandiGuide](https://apps.apple.com/us/app/handiguide/id1626629887)
+- 🔭 My apps: [HandiGuide](https://apps.apple.com/us/app/handiguide/id1626629887) and [Meteoropathy](https://apps.apple.com/fr/app/meteoropathy/id1665388486)
+  
+- 👩‍💻 I'm currently working on an amazing football app ⚽︎🤫
 
-- 🌱 I’m currently learning **building apps from A to Z (improving my UI/UX skills)**
+- 🌱 I’m currently learning **UI/UX**
 
 - 👯 I’m looking to collaborate on **iOS projects**
 
@@ -12,6 +14,8 @@
 - 📫 How to reach me **adeline@arinae.fr**
 
 - ⚡ Fun fact **Not so geeky at home, my main hobbie: reading! 📚**
+
+- 🐸 French citizen 🇫🇷
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
