@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Adeline ☺️💫🦕</h1>
 <h3 align="center">Working on mobile applications, especially interested in educative ones (for children and adults too!)</h3>
 
-- 🔭 My apps: [HandiGuide](https://apps.apple.com/us/app/handiguide/id1626629887) and [Meteoropathy](https://apps.apple.com/fr/app/meteoropathy/id1665388486)
+- 🔭 My apps: [HandiGuide](https://apps.apple.com/us/app/handiguide/id1626629887) , [Meteoropathy](https://apps.apple.com/fr/app/meteoropathy/id1665388486) and [Baby First Foods](https://apps.apple.com/fr/app/baby-first-foods/id6478329215)
+
   
 - 👩‍💻 I'm currently working on an amazing football app ⚽︎🤫
 
-- 🌱 I’m currently learning **UI/UX**
+- 🌱 I’m currently learning Kotlin & Jetpack Compose
 
 - 👯 I’m looking to collaborate on **iOS projects**
 
